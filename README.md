@@ -53,10 +53,11 @@ Navigate through different maze levels, collect rewards, avoid ghosts, and escap
 | Q     | Quit Game  |
 
 ---
-
 ## 🎥 Demo
 
-[Click here to watch the gameplay](./demo.mp4)
+▶️ Watch the demo: https://youtube.com/shorts/viaqSNIYwJI?feature=share
+
+---
 
 ## 🛠️ Installation & Run
 
