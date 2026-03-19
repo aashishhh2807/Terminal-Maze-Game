@@ -54,6 +54,10 @@ Navigate through different maze levels, collect rewards, avoid ghosts, and escap
 
 ---
 
+## 🎥 Demo
+
+[Click here to watch the gameplay](./demo.mp4)
+
 ## 🛠️ Installation & Run
 
 ### Step 1: Clone the repository
