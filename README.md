@@ -55,7 +55,7 @@ Navigate through different maze levels, collect rewards, avoid ghosts, and escap
 ---
 ## 🎥 Demo
 
-▶️ Watch the demo: https://youtube.com/shorts/viaqSNIYwJI?feature=share
+▶️ Watch the demo : https://youtu.be/DR9oz0dayfU?feature=shared
 
 ---
 
